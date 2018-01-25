@@ -1,3 +1,3 @@
 ActiveSupport::Inflector.inflections do |inflect|
-  inflect.acronym 'CoreUI'
+  # inflect.acronym 'CoreUI'
 end
