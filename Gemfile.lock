@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    coreui-rails (0.2.2)
+    coreui-rails (0.2.4)
       sass (~> 3.2)
 
 GEM
