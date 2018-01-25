@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = 'coreui-rails'
-  spec.version       = '1.0.0-alpha.6'
+  spec.version       = '0.1.0'
   spec.authors       = ['Chris Born']
   spec.email         = ['chris@peltedvenom.com']
 
