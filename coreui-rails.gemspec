@@ -4,7 +4,7 @@ require 'coreui_rails/version'
 
 Gem::Specification.new do |spec|
   spec.name          = 'coreui-rails'
-  spec.version       = Coreui::VERSION
+  spec.version       = CoreUI::VERSION
   spec.authors       = ['Chris Born']
   spec.email         = ['chris@peltedvenom.com']
 
