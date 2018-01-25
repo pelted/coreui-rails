@@ -1,0 +1,51 @@
+//
+// Base styles
+//
+
+.brand-card {
+  position: relative;
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+  margin-bottom: ($spacer * 1.5);
+  word-wrap: break-word;
+  background-color: $card-bg;
+  background-clip: border-box;
+  border: $card-border-width solid $card-border-color;
+  @include border-radius($card-border-radius);
+}
+
+.brand-card-header {
+  position: relative;
+  display: flex;
+  height: 6rem;
+  justify-content: center;
+  align-items: center;
+
+  i {
+    font-size: 2rem;
+    color: #fff;
+  }
+
+  .chart-wrapper {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+.brand-card-body {
+  display: flex;
+  flex-direction: row;
+  padding: $card-spacer-y 0;
+  text-align: center;
+
+  > * {
+    flex: 1;
+    padding: ($card-spacer-y * .25) 0;
+  }
+
+  > *:not(:last-child) {
+    border-right: 1px solid $border-color;
+  }
+}
