@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ['Chris Born']
   spec.email         = ['chris@peltedvenom.com']
 
-  spec.summary       = 'Gem to add CoreUI assets to your Rails asset pipeline.'
-  spec.description   = 'CoreUI is free bootstrap admin template with Angular2, AngularJS, React.js & Vue.js support.'
+  spec.summary       = 'Gem to add CoreUI-Free assets to your Rails asset pipeline.'
+  spec.description   = 'A is a simple gem to get for adding the CoreUI-Free admin template (by Łukasz Holeczek) to a Rails project\'s asset pipeline.'
   spec.homepage      = 'https://github.com/pelted/coreui-rails'
   spec.license       = 'MIT'
 
