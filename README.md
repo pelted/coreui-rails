@@ -1,6 +1,6 @@
 # CoreUI::Rails
 
-A is a simple gem to get for adding the [CoreUI-Free](http://coreui.io/index.html) admin template by [Łukasz Holeczek's](https://github.com/mrholek) to a Rails project's asset pipeline.
+A is a simple gem for adding the [CoreUI-Free](http://coreui.io/index.html) admin template (by [Łukasz Holeczek's](https://github.com/mrholek)) to a Rails project's asset pipeline.
 
 As of 1.0.0 this only includes the SCSS source of CoreUI-Free from this [repo](https://github.com/mrholek/CoreUI-SCSS).
 
