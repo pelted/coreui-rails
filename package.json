@@ -1,0 +1,9 @@
+{
+  "name": "coreui-rails",
+  "version": "0.2.7",
+  "description": "Gem to add CoreUI-Free assets to your Rails asset pipeline.",
+  "main": "coreui-free.js",
+  "repository": "git@github.com:pelted/coreui-rails.git",
+  "author": "Chris Born",
+  "license": "MIT"
+}
