@@ -2,8 +2,18 @@
   "name": "coreui-rails",
   "version": "0.2.7",
   "description": "Gem to add CoreUI-Free assets to your Rails asset pipeline.",
-  "main": "coreui-free.js",
+  "main": "main.js",
   "repository": "git@github.com:pelted/coreui-rails.git",
   "author": "Chris Born",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "bootstrap": "4.0.0",
+    "chart.js": "^2.7.1",
+    "flag-icon-css": "^2.9.0",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "pace-progress": "^1.0.2",
+    "popper.js": "^1.12.9",
+    "simple-line-icons": "^2.4.1"
+  }
 }
