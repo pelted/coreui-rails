@@ -39,7 +39,7 @@ module CoreUI
     end
 
     def register_rails_engine
-      require 'bootstrap/engine'
+      require 'coreui/engine'
     end
 
     def register_sprockets
