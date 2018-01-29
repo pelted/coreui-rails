@@ -1,5 +1,3 @@
-require 'sass'
-
 module CoreUI
   class Engine < ::Rails::Engine
     initializer 'coreui.assets' do |app|

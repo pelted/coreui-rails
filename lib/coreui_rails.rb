@@ -1,5 +1,7 @@
+require 'sass'
 require 'jquery-rails'
 require 'bootstrap'
+require 'font-awesome-rails'
 
 module CoreUI
   class << self
