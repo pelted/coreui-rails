@@ -39,7 +39,7 @@ module CoreUI
     end
 
     def register_rails_engine
-      require 'coreui/engine'
+      require 'coreui_rails/engine'
     end
 
     def register_sprockets

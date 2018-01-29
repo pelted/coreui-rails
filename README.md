@@ -22,10 +22,18 @@ And then execute:
 
 ## Usage
 
-To import all assets into your Rails project, add the following line to your application.scss:
+Add the following lines to your rails project
 
 ```scss
+// app/assets/stylesheets/application.scss
+
 @import "coreui-free";
+```
+
+```javascript
+// app/assets/javascripts/application.js
+
+//= require coreui-free
 ```
 
 ## Includes
@@ -33,7 +41,7 @@ To import all assets into your Rails project, add the following line to your app
 | Include     | Version       |
 | ----------- | ------------- |
 | Bootstrap   | 4.0.0         |
-| CoreUI-SCSS | 1.0.0-alpha.6 |
+| CoreUI-Free | 1.0.9         |
 
 ## License
 
