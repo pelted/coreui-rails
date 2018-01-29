@@ -1,9 +1,9 @@
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'coreui_rails/version'
+require 'coreui/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'coreui-rails'
+  spec.name          = 'coreui'
   spec.version       = CoreUI::VERSION
   spec.authors       = ['Chris Born']
   spec.email         = ['chris@peltedvenom.com']
@@ -15,5 +15,10 @@ Gem::Specification.new do |spec|
 
   spec.files         = `git ls-files`.split($OUTPUT_RECORD_SEPARATOR)
   spec.require_paths = ['lib']
-  spec.add_runtime_dependency 'sass', '~> 3.2'
+
+  spec.add_runtime_dependency 'autoprefixer-rails', '~> 6.0', '>= 6.0.3'
+  spec.add_runtime_dependency 'bootstrap', '~> 4.0', '>= 4.0.0'
+  spec.add_runtime_dependency 'font-awesome-rails', '~> 4.7', '>= 4.7.0'
+  spec.add_runtime_dependency 'jquery-rails', '~> 4.3', '>= 4.3.1'
+  spec.add_runtime_dependency 'sass', '~> 3.5', '>= 3.5.2'
 end
