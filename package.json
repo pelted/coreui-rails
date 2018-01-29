@@ -12,6 +12,7 @@
     "flag-icon-css": "^2.9.0",
     "font-awesome": "^4.7.0",
     "jquery": "^3.3.1",
+    "moment": "^2.20.1",
     "pace-progress": "^1.0.2",
     "popper.js": "^1.12.9",
     "simple-line-icons": "^2.4.1"

@@ -1,3 +1,5 @@
 *.gem
 /.bundle/
 /node_modules/
+/.cache/
+/dist/

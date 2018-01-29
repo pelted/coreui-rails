@@ -1,0 +1,12 @@
+javascripts:
+  vendor:
+    - ./node_modules/jquery/dist/jquery.min.js
+    - ./node_modules/popper.js/dist/popper.min.js
+    - ./node_modules/bootstrap/dist/js/bootstrap.min.js
+    - ./node_modules/pace-progress/pace.min.js
+    - ./node_modules/moment/moment.js
+    - ./node_modules/chart.js/dist/Chart.min.js
+css:
+  vendor:
+    - bootsrap: ./node_modules/bootstrap/scss
+    - simple-line-icons: ./node_modules/simple-line-icons/scss/simple-line-icons.scss 
