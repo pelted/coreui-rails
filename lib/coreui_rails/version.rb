@@ -1,3 +1,3 @@
 module CoreUI
-  VERSION = '0.2.9'.freeze
+  VERSION = '1.0.9'.freeze
 end
