@@ -3,7 +3,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'coreui/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'coreui'
+  spec.name          = 'coreui-rails'
   spec.version       = CoreUI::VERSION
   spec.authors       = ['Chris Born']
   spec.email         = ['chris@peltedvenom.com']
