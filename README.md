@@ -93,7 +93,7 @@ $navbar-brand-logo: url(asset-path("my_logo.png"));
 | Include     | Version       |
 | ----------- | ------------- |
 | Bootstrap   | 4.0.0         |
-| CoreUI-Free | 1.0.9         |
+| CoreUI-Free | 1.0.10         |
 
 ## License
 * CoreUI is Copyright creativeLabs Łukasz Holeczek. The code is released under the [MIT License](https://opensource.org/licenses/MIT).
