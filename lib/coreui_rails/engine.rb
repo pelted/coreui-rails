@@ -1,5 +1,5 @@
 require 'jquery-rails'
-require 'font-awesome'
+require 'font-awesome-sass'
 require 'bootstrap'
 
 module CoreUI
