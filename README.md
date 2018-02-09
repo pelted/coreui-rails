@@ -3,7 +3,7 @@
 A simple gem for adding the [CoreUI-Free](http://coreui.io/index.html) admin template (by [Łukasz Holeczek's](https://github.com/mrholek)) to a Rails project's asset pipeline.
 
 For convenience this gem depends on the following gems:
-    
+
 - bootstrap
 - jquery-rails
 - font-awesome-rails
@@ -49,7 +49,6 @@ Add the following lines to your rails project
 $navbar-bg: rgb(201, 201, 201);
 $navbar-brand-bg: transparent;
 $navbar-brand-logo: url(asset-path("my_logo.png"));
-
 ```
 
 **Javascripts**
@@ -66,7 +65,7 @@ $navbar-brand-logo: url(asset-path("my_logo.png"));
 | Include     | Version       |
 | ----------- | ------------- |
 | Bootstrap   | 4.0.0         |
-| CoreUI-Free | 1.0.9         |
+| CoreUI-Free | 1.0.10         |
 
 ## License
 * CoreUI is Copyright creativeLabs Łukasz Holeczek. The code is released under the [MIT License](https://opensource.org/licenses/MIT).
