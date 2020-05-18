@@ -7,7 +7,7 @@
   "author": "Chris Born",
   "license": "MIT",
   "devDependencies": {
-    "bootstrap": "4.0.0",
+    "bootstrap": "4.3.1",
     "chart.js": "^2.7.1",
     "flag-icon-css": "^2.9.0",
     "font-awesome": "^4.7.0",
