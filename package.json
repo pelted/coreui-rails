@@ -8,7 +8,7 @@
   "license": "MIT",
   "devDependencies": {
     "bootstrap": "4.3.1",
-    "chart.js": "^2.7.1",
+    "chart.js": "^2.9.4",
     "flag-icon-css": "^2.9.0",
     "font-awesome": "^4.7.0",
     "jquery": "^3.5.0",
